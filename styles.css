@@ -2,4 +2,8 @@
 /* Your CSS Code here. */
 td{
 	width:50%;
+	text-align:center;
+}
+.bottom-tables{
+	padding:20px 10px;
 }
